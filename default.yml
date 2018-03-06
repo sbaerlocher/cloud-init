@@ -6,7 +6,7 @@
 #
 # Default: false
 # Aliases: apt_update
-package_update: false
+package_update: true
 
 # Upgrade the instance on first boot
 # (ie run apt-get upgrade)
